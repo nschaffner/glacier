@@ -5,7 +5,7 @@ import Home from './Home';
 function App() {
   return (
     // BEM
-    <div className="App">
+    <div className="app">
       <Header />
       <Home />
     </div>
